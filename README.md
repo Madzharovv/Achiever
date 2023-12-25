@@ -1,3 +1,13 @@
+<img width="622" alt="AchieverLogo" src="https://github.com/Madzharovv/Achiever/assets/71776566/b60df0fd-f2bf-4698-9a5b-b641dc9efc1d">
+<img width="1428" alt="userhome1" src="https://github.com/Madzharovv/Achiever/assets/71776566/1cf998cd-262b-40f9-bba2-f1214ac60f2e">
+<img width="1428" alt="userhome2" src="https://github.com/Madzharovv/Achiever/assets/71776566/48f50a43-d6a6-498f-99ce-f4142470adec">
+<img width="1088" alt="timetablesc" src="https://github.com/Madzharovv/Achiever/assets/71776566/fb1da1a6-7cdd-47b1-b3b2-e0b7f2930a97">
+<img width="1428" alt="statistics1" src="https://github.com/Madzharovv/Achiever/assets/71776566/be7d0d95-c0eb-4bae-9f25-cd115d7a63f1">
+<img width="998" alt="statistics2" src="https://github.com/Madzharovv/Achiever/assets/71776566/61bcbf3e-ed56-48d6-a553-fe9841ffc6c0">
+<img width="1428" alt="statistics3" src="https://github.com/Madzharovv/Achiever/assets/71776566/d2443c3c-9c0a-4c76-a9eb-4949debf3865">
+
+<img width="1428" alt="gradessc" src="https://github.com/Madzharovv/Achiever/assets/71776566/0f1414f3-677b-4dfc-9915-641f3c33d854">
+
 ACHIEVER
 by Valentin Madzharov
 
