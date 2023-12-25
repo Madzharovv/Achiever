@@ -5,8 +5,9 @@
 <img width="1428" alt="statistics1" src="https://github.com/Madzharovv/Achiever/assets/71776566/be7d0d95-c0eb-4bae-9f25-cd115d7a63f1">
 <img width="998" alt="statistics2" src="https://github.com/Madzharovv/Achiever/assets/71776566/61bcbf3e-ed56-48d6-a553-fe9841ffc6c0">
 <img width="1428" alt="statistics3" src="https://github.com/Madzharovv/Achiever/assets/71776566/d2443c3c-9c0a-4c76-a9eb-4949debf3865">
-
 <img width="1428" alt="gradessc" src="https://github.com/Madzharovv/Achiever/assets/71776566/0f1414f3-677b-4dfc-9915-641f3c33d854">
+<img width="1428" alt="profile1" src="https://github.com/Madzharovv/Achiever/assets/71776566/16e3fb39-0532-4173-a663-608599ed263f">
+<img width="1428" alt="profile2" src="https://github.com/Madzharovv/Achiever/assets/71776566/8ebafbb4-3afc-4783-851a-8f3d69dc9346">
 
 ACHIEVER
 by Valentin Madzharov
