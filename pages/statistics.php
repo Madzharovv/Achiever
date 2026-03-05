@@ -196,8 +196,8 @@ $num_rowsLECTURE = mysqli_num_rows($resultLECTUREEvents);
 
 <body>
 
-    <div class=" profilePageContainer">
-        <div class="userHomeFullPageContainer">
+    <div class="profilePageContainer">
+        <div class="">
             <nav class="sidenav">
                 <div>
                     <div class="profileImgName">
